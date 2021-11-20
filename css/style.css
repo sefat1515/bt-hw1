@@ -1,0 +1,19 @@
+.carousel-indicators-c {  
+    bottom: 48%;
+    left: -8%;
+    display: block;
+}
+.carousel-control-prev-c {
+    left: 80%;
+}
+.carousel-control-prev-c, .carousel-control-next-c {
+    top: 73%;    
+    width: 12%;
+}
+.carousel-indicators-c [data-bs-target] {
+    width: 15px;
+    height: 15px;
+}
+.slider button{
+    display: block;
+}
